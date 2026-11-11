@@ -31,4 +31,4 @@ app.MapGet("/outreach/drafts", async (IOutreachService service, CancellationToke
 
 app.Run();
 
-public partial class Program;
+public partial class Program { }
